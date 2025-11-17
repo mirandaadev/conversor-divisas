@@ -13,7 +13,7 @@ Este proyecto es una aplicación de consola desarrollada en Java que permite con
 
 - **Conversión de divisas**: Convierte montos entre varias divisas internacionales de manera rápida y sencilla.
 - **Interfaz de consola**: Interactúa con el usuario a través de una interfaz de línea de comandos.
-- **Precisión**: Utiliza tasas de cambio precisas y actualizadas (nota: se deben actualizar manualmente en el código).
+- **Precisión**: Utiliza tasas de cambio precisas y actualizadas.
 
 ## Tecnologías Utilizadas
 
