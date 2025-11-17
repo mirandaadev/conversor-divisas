@@ -1,4 +1,4 @@
-## Conversor de Divisas
+# Conversor de Divisas
 
 Este proyecto es una aplicación de consola desarrollada en Java que permite convertir entre diferentes divisas. Las conversiones disponibles son:
 
